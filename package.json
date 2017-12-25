@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "create-react-app": "^1.4.3",
     "koa": "^2.4.1",
     "koa-body": "^2.5.0",
+    "koa-bodyparser": "^2.5.0",
     "koa-router": "^7.3.0",
     "mysql2": "^1.5.1",
     "sequelize": "^4.28.6"
